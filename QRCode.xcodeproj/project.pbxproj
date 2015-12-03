@@ -67,11 +67,6 @@
 		2A5438CC1C0EBB8C0033BE9E /* split.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = split.c; sourceTree = "<group>"; };
 		2A5438CD1C0EBB8C0033BE9E /* split.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = split.h; sourceTree = "<group>"; };
 		2A5438D61C0EBCF50033BE9E /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
-		2A5438D71C0EBEC20033BE9E /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		2A5438D91C0EBECF0033BE9E /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
-		2A5438DB1C0EBF080033BE9E /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
-		2A5438DD1C0EBF1C0033BE9E /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		2A5438DF1C0EBF310033BE9E /* libiconv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.tbd; path = usr/lib/libiconv.tbd; sourceTree = SDKROOT; };
 		2AB112B41C0D88330087CFCB /* xxx.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xxx.png; sourceTree = "<group>"; };
 		2AF4AF231C0D31F300291D14 /* QRCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QRCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AF4AF271C0D31F300291D14 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -142,11 +137,6 @@
 		2AF4AF1A1C0D31F300291D14 = {
 			isa = PBXGroup;
 			children = (
-				2A5438DF1C0EBF310033BE9E /* libiconv.tbd */,
-				2A5438DD1C0EBF1C0033BE9E /* QuartzCore.framework */,
-				2A5438DB1C0EBF080033BE9E /* CoreVideo.framework */,
-				2A5438D91C0EBECF0033BE9E /* CoreMedia.framework */,
-				2A5438D71C0EBEC20033BE9E /* AVFoundation.framework */,
 				2AF4AF251C0D31F300291D14 /* QRCode */,
 				2AF4AF3F1C0D31F400291D14 /* QRCodeTests */,
 				2AF4AF4A1C0D31F400291D14 /* QRCodeUITests */,
